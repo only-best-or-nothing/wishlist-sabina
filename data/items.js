@@ -1,0 +1,18 @@
+const ITEMS = [
+  { id: 1,  emoji: '🏺', name: 'Ваза Ginori',                          note: 'Цвет на ваше усмотрение',                    link: null },
+  { id: 2,  emoji: '🪑', name: 'Складные стулья для пикника',           note: 'Чтобы легко нести и убрать в багажник',       link: null },
+  { id: 3,  emoji: '🎷', name: 'Билеты на Chess and Jazz',              note: 'Оба дня',                                    link: null },
+  { id: 4,  emoji: '🍴', name: 'Столовые приборы в золоте',             note: 'Изящный набор',                              link: 'https://www.farfetch.com/item-31303664.aspx' },
+  { id: 5,  emoji: '🧥', name: 'Флиска levashovaelagina',               note: null,                                         link: null },
+  { id: 6,  emoji: '👕', name: 'Футболки оверсайз со смешными принтами',note: 'Винтажные — особенно круто',                  link: null },
+  { id: 7,  emoji: '📿', name: 'Подвеска liliarchive',                  note: null,                                         link: 'https://www.instagram.com/p/DW1Xq0_DDNq/' },
+  { id: 8,  emoji: '💍', name: 'Кольцо liliarchive',                    note: 'Такое же',                                   link: 'https://www.instagram.com/p/DU27ucdDLsW/' },
+  { id: 9,  emoji: '🪥', name: 'Ультрафиолетовая зубная щётка Bork',   note: null,                                         link: null },
+  { id: 10, emoji: '👓', name: 'Футляр для очков Askent',               note: 'Цвет базилик (зелёный)',                     link: null },
+  { id: 11, emoji: '🕯️', name: 'Саше — свечи',                         note: null,                                         link: null },
+  { id: 12, emoji: '🛁', name: 'Саше — вафельный халат',                note: 'Бежевый',                                    link: null },
+  { id: 13, emoji: '👚', name: 'Саше — рубашка',                        note: 'Зелёная в клетку',                           link: 'https://sachet.space/objects' },
+  { id: 14, emoji: '🫖', name: 'Заварочный чайник Polspotten',          note: null,                                         link: 'https://www.farfetch.com/item-17445490.aspx' },
+  { id: 15, emoji: '🧖', name: 'Сертификат в Senses Mind&Spa',          note: null,                                         link: null },
+  { id: 16, emoji: '💃', name: 'Урок латиноамериканских танцев',         note: null,                                         link: null },
+];

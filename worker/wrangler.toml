@@ -1,0 +1,7 @@
+name = "sabina-wishlist"
+main = "index.js"
+compatibility_date = "2024-09-23"
+
+[[kv_namespaces]]
+binding = "CLAIMS"
+id = "YOUR_KV_NAMESPACE_ID"
