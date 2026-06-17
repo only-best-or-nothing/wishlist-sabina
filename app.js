@@ -1,7 +1,7 @@
 // ── Config ────────────────────────────────────────────────────────────────────
 // After deploying the Cloudflare Worker, replace this URL with your Worker URL.
 // Example: 'https://sabina-wishlist.yourname.workers.dev'
-const WORKER_URL = 'https://sabina-wishlist.YOUR_SUBDOMAIN.workers.dev';
+const WORKER_URL = 'https://sabina-wishlist.sabinalist.workers.dev';
 
 const POLL_INTERVAL = 7000; // ms between background polls
 
