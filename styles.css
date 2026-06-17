@@ -64,10 +64,6 @@ body {
   display: block;
 }
 
-/* show placeholder border when image fails to load */
-.polaroid-img[src="assets/sabina-photo.jpg"]:not([complete]) {
-  opacity: 0;
-}
 
 .title {
   font-family: 'Cormorant Garamond', serif;
